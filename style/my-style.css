@@ -6,6 +6,7 @@
 }
 h2 {
   background-color: lightgray;
+  clear: left;
 }
 footer {
   border-top: 1px solid black;
@@ -13,4 +14,9 @@ footer {
 span {
   position: absolute;
   right: 1%;
+}
+.skills div {
+  width: 200px;
+  height: 250px;
+  float: left;
 }
