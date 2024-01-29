@@ -10,3 +10,7 @@ h2 {
 footer {
   border-top: 1px solid black;
 }
+span {
+  position: absolute;
+  right: 1%;
+}
